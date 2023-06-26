@@ -1,0 +1,78 @@
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.exe
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.deps.json
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.runtimeconfig.json
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.pdb
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.Form1.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.GioHang.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.HoaDon.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.ManHinhMuaSam.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.ManHinhQuanLy.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.MatHang.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.MatHangTrongGio.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.Properties.Resources.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLCTHD.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLHD.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLHH.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLKH.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TaoTaiKhoan.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TrangThaiCacDonHang.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TrangThaiDonHang.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.AssemblyInfoInputs.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.AssemblyInfo.cs
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.CopyComplete
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\refint\QuanLyBanHang.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.pdb
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.genruntimeconfig.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\ref\QuanLyBanHang.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.DoanhThu.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.exe
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.deps.json
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.runtimeconfig.json
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\QuanLyBanHang.pdb
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.DoanhThu.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.Form1.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.GioHang.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.HoaDon.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.ManHinhMuaSam.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.ManHinhQuanLy.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.MatHang.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.MatHangTrongGio.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.Properties.Resources.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLCTHD.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLHD.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLHH.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLKH.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TaoTaiKhoan.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TrangThaiCacDonHang.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TrangThaiDonHang.resources
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.AssemblyInfoInputs.cache
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.AssemblyInfo.cs
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.csproj.CopyComplete
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\refint\QuanLyBanHang.dll
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.pdb
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\QuanLyBanHang.genruntimeconfig.cache
+D:\Persional Docs\4601104119 - Nhóm zero - Quản lý bán hàng - Final update\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\ref\QuanLyBanHang.dll

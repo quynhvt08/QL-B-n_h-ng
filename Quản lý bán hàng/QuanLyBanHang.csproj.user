@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManHinhMuaSam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManHinhQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MatHangTrongGio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QLCTHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaoTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrangThaiCacDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrangThaiDonHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

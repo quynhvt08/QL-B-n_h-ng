@@ -1,0 +1,38 @@
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.csproj.AssemblyReference.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.Form1.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.csproj.GenerateResource.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.AssemblyInfoInputs.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.AssemblyInfo.cs
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.csproj.CoreCompileInputs.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\Quản lý bán hàng.exe
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\Quản lý bán hàng.deps.json
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\Quản lý bán hàng.runtimeconfig.json
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\Quản lý bán hàng.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\Quản lý bán hàng.pdb
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\refint\Quản lý bán hàng.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.pdb
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.genruntimeconfig.cache
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\ref\Quản lý bán hàng.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản lý bán hàng.csproj.CopyComplete
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TaoTaiKhoan.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.ManHinhQuanLy.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLHD.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLHH.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLKH.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.ManHinhMuaSam.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.Properties.Resources.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.MatHang.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.GioHang.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.MatHangTrongGio.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.HoaDon.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.QLCTHD.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TrangThaiCacDonHang.resources
+D:\Code\MS VSS\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\net6.0-windows\Quản_lý_bán_hàng.TrangThaiDonHang.resources
